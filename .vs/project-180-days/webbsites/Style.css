@@ -1,0 +1,9 @@
+﻿body {
+
+    background-image: url("https://static1.squarespace.com/static/56b25a6120c6477e9ac9f18f/t/57239cfd044262921a13b8b3/1461951745616/PINTS---Website---Background-Colors-Beige.jpg?format=2500w");
+    background-position: center center;
+}
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
